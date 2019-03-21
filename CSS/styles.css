@@ -11,4 +11,9 @@ img {
 
 h1 {
   color: #4592af;
+  font-size: 100px;
+}
+
+p {
+  font-size: 30px;
 }
